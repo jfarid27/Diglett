@@ -1,0 +1,23 @@
+{
+  "name": "Diglett",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Diglett.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfarid27/Diglett.git"
+  },
+  "author": "J. Farid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfarid27/Diglett/issues"
+  },
+  "homepage": "https://github.com/jfarid27/Diglett",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^5.2.0"
+  }
+}
